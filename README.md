@@ -69,9 +69,6 @@
 - **[Feichtenhofer *et al.*, ICCV'19]** SlowFast Networks for Video Recognition. [[PDF]](https://openaccess.thecvf.com/content)
   - Christoph Feichtenhofer, Haoqi Fan, Jitendra Malik, and Kaiming He, *ICCV 2019*.
 
-- **[Feichtenhofer *et al.*, NeurIP'22]** Masked Autoencoders As Spatiotemporal Learners. [[PDF]](https://arxiv.org/pdf/2205.09113.pdf)
-  - Christoph Feichtenhofer, Haoqi Fan, Yanghao Li, and Kaiming He, *NeurIP 2022*.
-
 - **[Feichtenhofer *et al.*, NeurIPS'22]** Masked Autoencoders As Spatiotemporal Learners. [[PDF]](https://proceedings.neurips.cc/paper)
   - Christoph Feichtenhofer, Haoqi Fan, Yanghao Li, and Kaiming He, *NeurIPS 2022*.
 
